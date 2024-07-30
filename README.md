@@ -41,7 +41,7 @@ Feel free to email me for dataset request and questions (xherlocker1214@gmail.co
 
 ## BibTeX
 
-If you want to cite our Dataset, you can use our [paper]():
+Please consider the citation of our paper when using the dataset to publish research results:
 
 ~~~
 B. Xu, H. Wang, "VRC-GraphNet: A Graph Neural Network-based Reasoning Framework for Attacking Visual Reasoning Captchas". Proceeding of 19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2023), Hong Kong, China, October 19-21, 2023. (To be published soon)
