@@ -9,7 +9,7 @@ Some examples are shown in below table. More can be found in the [images](./imag
 
 |  CAPTCHA  |  Size  |                           Example                            |
 | :-------: | :----: | :----------------------------------------------------------: |
-|    VTT    | 10,000 | <img src="D:\LearnigForCyberSecurity\pictures\vtt_000001.jpg" style="width:150pt;"><br>请点击正对着你的字母<br>(Please click on the letter that is facing you) |
+|    VTT    | 10,000 | <img src=".\images\vtt_000001.jpg" style="width:150pt;"><br>请点击正对着你的字母<br>(Please click on the letter that is facing you) |
 |  Geetest  | 10,000 | <img src=".\images\geetest_000001.jpg" style="width:150pt;"><br>请点击与黄色物体有相同大小的红色正方体。<br>(Please click on the same size red cube with the same size as the yellow object. ) |
 |  NetEase  | 10,000 | <img src=".\images\netease_000001.jpg" style="width:150pt;"><br>请点击灰色大写L<br>(Please click on the gray capital L) |
 |  Xiaodun  | 10,000 | <img src=".\images\xiaodun_000001.png" style="width:150pt;"><br>请点击蓝色的圆锥体<br>(Please click the blue cone) |
